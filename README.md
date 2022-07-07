@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalrhino&label=Profile%20views&color=0e75b6&style=flat" alt="technicalrhino" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/ead93d9e-3fea-487b-bfc4-530dcca9ed8c.svg)](https://wakatime.com/@ead93d9e-3fea-487b-bfc4-530dcca9ed8c)
+
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Java, JavaScript, MySQL, Spring Boot, RabbitMQ**
