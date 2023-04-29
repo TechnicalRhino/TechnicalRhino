@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agnibha</h1>
-<h3 align="center">An old but passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer from India. Whatever I do, I try to give my 100% to it. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalrhino&label=Profile%20views&color=0e75b6&style=flat" alt="technicalrhino" /> </p>
 
