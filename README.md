@@ -5,7 +5,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/ead93d9e-3fea-487b-bfc4-530dcca9ed8c.svg)](https://wakatime.com/@ead93d9e-3fea-487b-bfc4-530dcca9ed8c)
 
-- 🌱 I’m currently learning **React**
+- 🌱 Building Shopflo. Working on some awesome things.
 
 - 💬 Ask me about **Java, JavaScript, MySQL, Spring Boot, RabbitMQ**
 
